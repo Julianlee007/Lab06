@@ -34,7 +34,7 @@ knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
 _Write your comments about image 2 below_
-
+##The use of similar shades of grey make it hard to determine the countries. There are no numerical labels or legends which makes it impossible to extract values. It's not clea which dimension corresponds to which data. For example, the angle may be the population density or the total area. 
 
 
 
@@ -56,7 +56,7 @@ knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
 _Write your comments about image 4 below_
-Disrespecting the data as there is no proper variable associated with the y-axis and the x-axis is scaled unevenly. Disrespecting audience and data as the data visualisation does not give a clear message about the data as some data may be hidden due to overlapping and the awkward shapes of the curves.
+##Disrespecting the data as there is no proper variable associated with the y-axis and the x-axis is scaled unevenly. Disrespecting audience and data as the data visualisation does not give a clear message about the data as some data may be hidden due to overlapping and the awkward shapes of the curves.
 
 
 
