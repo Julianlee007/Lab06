@@ -1,7 +1,7 @@
 ---
 title: "Lab 06 - Take a sad plot and make it better"
 author: "mw-mw-mw5051, Julianlee007, mthw2304 and BlemishControlFreak - The Fantastic 4 (90210)"
-date: "`r Sys.Date(24.10.2025)`"
+date: "r Sys.Date(24.10.2025)"
 output: html_document
 ---
 
@@ -46,7 +46,7 @@ knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 
 _Write your comments about image 3 below_
 
-
+## The graph does display both axes clearly, however representing each country with its country code may make it confusing to identify that country. Overlapping circles also make it hard to read which countries overlap with each other. However the visualization makes it easier to identify extremes.
 
 
 ## Image 4
