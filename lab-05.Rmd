@@ -23,7 +23,7 @@ knitr::include_graphics("img/Speaking-the-world.jpg")
 
 _Write your comments about image 1 below_
 
-The ratio in sizes of the bars are not the same as the the ratio between the number of speakers. Also potentially problematic is the use of the , as a decimal point as this is not used the same worldwide.
+##The ratio in sizes of the bars are not the same as the the ratio between the number of speakers. Also potentially problematic is the use of the , as a decimal point as this is not used the same worldwide.
 
 
 
