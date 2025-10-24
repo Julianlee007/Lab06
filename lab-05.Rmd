@@ -1,7 +1,7 @@
 ---
 title: "Lab 06 - Take a sad plot and make it better"
-author: "User1, User2, User3 and User4 - Team Name"
-date: "`r Sys.Date()`"
+author: "mw-mw-mw5051, Julianlee007, mthw2304 and BlemishControlFreak - The Fantastic 4 (90210)"
+date: "`r Sys.Date(24.10.2025)`"
 output: html_document
 ---
 
