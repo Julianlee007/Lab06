@@ -23,7 +23,7 @@ knitr::include_graphics("img/Speaking-the-world.jpg")
 
 _Write your comments about image 1 below_
 
-The ratio in sizes of the bars are not the same as the the ratio between the number of speakers. Also potentially problematic is the use of the , as a decimal point as this is not used the same worldwide.
+
 
 
 
@@ -34,7 +34,7 @@ knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
 _Write your comments about image 2 below_
-## The use of similar shades of grey in this makes it hard to distinguish between countries. There are no numerical labels or legends, making it impossible to extract values. It's clear which data corresponds to which dimension. For example is the angle the population density or the total area? Overall there is poor layout and labelling in this chart.
+
 
 
 
@@ -56,7 +56,7 @@ knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
 _Write your comments about image 4 below_
-
+Disrespecting the data as there is no proper variable associated with the y-axis and the x-axis is scaled unevenly. Disrespecting audience and data as the data visualisation does not give a clear message about the data as some data may be hidden due to overlapping and the awkward shapes of the curves.
 
 
 
